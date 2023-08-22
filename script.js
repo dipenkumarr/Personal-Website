@@ -1,5 +1,5 @@
 var typed = new Typed("#element", {
-  strings: ["Student.", "Web Developer.", "Photo Editor."],
+  strings: ["Student.", "Potential Developer.", "Student"],
   typeSpeed: 50,
   //   loop: Infinity,
 });
@@ -9,4 +9,7 @@ function githubFunction() {
 }
 function resumeFunction() {
   window.open("Resume-Dipen-Kumar-uofa.pdf");
+}
+function linkedinFunction() {
+  window.open("https://www.linkedin.com/in/dipen-kumar");
 }
