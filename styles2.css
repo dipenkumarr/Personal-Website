@@ -39,7 +39,7 @@ nav ul li a,
 
 nav ul li a:hover, .footer-second ul li a:hover {
     color: rgb(239, 210, 239);
-    font-size: 1.05rem;
+/*     font-size: 1.05rem; */
 }
 
 .left a {
